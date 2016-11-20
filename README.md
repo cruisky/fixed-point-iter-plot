@@ -1,2 +1,2 @@
-# fixed-point-iter-plot
+# fpi-plot
 Fixed point iteration plotting.
